@@ -11,6 +11,7 @@
 | [dsh-better-sidebar](https://github.com/DegreeCode/dsh-better-sidebar) | Fork of [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) with Korean translation fixes, host language integration, and release packages. |
 | [dsh-docs](https://github.com/DegreeCode/dsh-docs) | Korean documentation repository for DeepSeek Harness. |
 | [export-chatgpt](https://github.com/DegreeCode/export-chatgpt) | Fork of [brianjlacy/export-chatgpt](https://github.com/brianjlacy/export-chatgpt) with resumable conversation exports and optional Library/Dot exports. |
+| [web-tradex](https://github.com/DegreeCode/web-tradex) | Public Web Service for TradeX (Archived) |
 
 ## Contact
 
